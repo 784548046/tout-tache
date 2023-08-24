@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(images/melange.jpg);
+}
+
+header h4{
+    color: #CB0D0D;
+}
+header h1{
+    color: #FFFFFF;
+}
